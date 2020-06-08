@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: RestuarantManagementSystemRepo, Configuration: Debug Any CPU ------
+1>  RestuarantManagementSystemRepo -> C:\Users\ra_sh\OneDrive\C#\Pro\pro v2\RestuarantManagementSystemForm\RestuarantManagementSystemRepo\bin\Debug\RestuarantManagementSystemRepo.dll
+2>------ Build started: Project: RestuarantManagementSystemForm, Configuration: Debug Any CPU ------
+2>  RestuarantManagementSystemForm -> C:\Users\ra_sh\OneDrive\C#\Pro\pro v2\RestuarantManagementSystemForm\RestuarantManagementSystemForm\bin\Debug\RestuarantManagementSystemForm.exe
+========== Build: 2 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========

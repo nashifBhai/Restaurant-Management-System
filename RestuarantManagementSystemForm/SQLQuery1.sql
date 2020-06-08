@@ -1,0 +1,1 @@
+﻿UPDATE AccountTable SET Name = 'Rashed', Password = '222' , AccountType = 'Cook' WHERE AccountId= '112'
